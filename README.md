@@ -9,7 +9,7 @@
 **DEPARTMENT: AI & DS**
 
 ## Aim:
-
+ 
 To Interface iot development board for configuring the usart and transfer strings through it 
 
 ## Components required: 
